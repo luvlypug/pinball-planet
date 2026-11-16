@@ -390,6 +390,9 @@ MonoBehaviour:
   speed: 1.2
   minPower: 5
   maxPower: 10
+  face: {fileID: 0}
+  faceOffsetY: 0.05
+  faceOffsetZ: 0.5
   rb: {fileID: 0}
   canLaunch: 1
   canAbility: 0
