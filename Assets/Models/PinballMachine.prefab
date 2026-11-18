@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 1531380412293236423}
   - component: {fileID: 402015188712243577}
   m_Layer: 0
-  m_Name: MachineCurvedOutline
+  m_Name: Machine Curved Outline
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -100,7 +100,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8093131699031913243}
   m_Layer: 0
-  m_Name: PlanetPinballEnvironemntFix2
+  m_Name: PinballMachine
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -141,7 +141,7 @@ GameObject:
   - component: {fileID: 6846569145587249388}
   - component: {fileID: 5945984395588008692}
   m_Layer: 0
-  m_Name: MachineFlipperOutline
+  m_Name: Machine Flipper Outline
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -231,7 +231,7 @@ GameObject:
   - component: {fileID: 7564824529079813401}
   - component: {fileID: 4013629948087666926}
   m_Layer: 0
-  m_Name: MachineCirclesOutline
+  m_Name: Machine Circles Outline
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -434,7 +434,7 @@ GameObject:
   - component: {fileID: 8827558626154076171}
   - component: {fileID: 6140952235802646554}
   m_Layer: 0
-  m_Name: MachineOutline
+  m_Name: Machine Outline
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -525,7 +525,7 @@ GameObject:
   - component: {fileID: 8285330570486403747}
   - component: {fileID: 782349960638350854}
   m_Layer: 0
-  m_Name: MachineFlipperArea
+  m_Name: Machine Flipper Area
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -638,7 +638,7 @@ GameObject:
   - component: {fileID: 4643366713224617979}
   - component: {fileID: 3282863700720612859}
   m_Layer: 0
-  m_Name: MachineCurved
+  m_Name: Machine Curved
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -751,7 +751,7 @@ GameObject:
   - component: {fileID: 5938434527488438075}
   - component: {fileID: 6882709021576369950}
   m_Layer: 0
-  m_Name: MachineCircles
+  m_Name: Machine Circles
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

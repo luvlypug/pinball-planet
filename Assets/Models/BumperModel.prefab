@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 668542746979266983}
   - component: {fileID: 5158616848102798020}
   m_Layer: 0
-  m_Name: BumperOutline
+  m_Name: Bumper Outline
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -102,7 +102,7 @@ GameObject:
   - component: {fileID: 794686357373197927}
   - component: {fileID: 7787069215679744806}
   m_Layer: 0
-  m_Name: Bumper
+  m_Name: BumperModel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

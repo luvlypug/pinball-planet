@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 4958977659565668665}
   - component: {fileID: 2208346371181283768}
   m_Layer: 0
-  m_Name: SpringOutline
+  m_Name: Spring Outline
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -137,7 +137,7 @@ GameObject:
   - component: {fileID: 5025449448635791187}
   - component: {fileID: 55347018772170682}
   m_Layer: 0
-  m_Name: SpringTop
+  m_Name: Spring Top
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -227,7 +227,7 @@ GameObject:
   - component: {fileID: 6029852884622236097}
   - component: {fileID: 816363229105758508}
   m_Layer: 0
-  m_Name: SpringTopOutline
+  m_Name: Spring Top Outline
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

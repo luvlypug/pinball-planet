@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: SpeedTrail
+  m_Name: SpeedBallTrail
   m_Shader: {fileID: -6465566751694194690, guid: f520a46a6187ed444be715dfe2459201, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0

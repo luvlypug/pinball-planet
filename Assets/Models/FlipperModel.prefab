@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 1608737592229607235}
   - component: {fileID: 3098649948213661289}
   m_Layer: 0
-  m_Name: FlipperOutline
+  m_Name: Flipper Outline
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -102,7 +102,7 @@ GameObject:
   - component: {fileID: 4035945256862455176}
   - component: {fileID: 8366538352327885297}
   m_Layer: 0
-  m_Name: Flipper
+  m_Name: FlipperModel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
