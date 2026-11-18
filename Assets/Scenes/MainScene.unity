@@ -910,11 +910,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6945824437624786773, guid: b02905148aa4b3e48978694e7b315fa5, type: 3}
       propertyPath: m_fontSize
-      value: 72
+      value: 100
       objectReference: {fileID: 0}
     - target: {fileID: 6945824437624786773, guid: b02905148aa4b3e48978694e7b315fa5, type: 3}
       propertyPath: m_fontSizeBase
-      value: 72
+      value: 100
       objectReference: {fileID: 0}
     - target: {fileID: 6945824437624786773, guid: b02905148aa4b3e48978694e7b315fa5, type: 3}
       propertyPath: m_VerticalAlignment
@@ -1641,7 +1641,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1787672756480011792, guid: 0dea5f32ba3a3144192fa6202387a86d, type: 3}
       propertyPath: m_Name
-      value: Environment
+      value: Pinball Machine
       objectReference: {fileID: 0}
     - target: {fileID: 8093131699031913243, guid: 0dea5f32ba3a3144192fa6202387a86d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4170,6 +4170,7 @@ SceneRoots:
   - {fileID: 1800661954}
   - {fileID: 827594333}
   - {fileID: 911451896}
+  - {fileID: 755958036}
   - {fileID: 138994807}
   - {fileID: 738889457}
   - {fileID: 694420213}
@@ -4180,5 +4181,4 @@ SceneRoots:
   - {fileID: 1922042473}
   - {fileID: 1209112347}
   - {fileID: 5373076766248741123}
-  - {fileID: 755958036}
   - {fileID: 534748096}
